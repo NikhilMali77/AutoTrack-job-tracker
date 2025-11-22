@@ -1,12 +1,14 @@
 # AutoTrack - Job Tracker
 
-**AutoTrack** is a smart job-tracking tool that helps job seekers automatically save and organize their job applications directly from platforms like **LinkedIn** and **Naukri**.
+**AutoTrack** is a smart job-tracking tool that helps job seekers automatically save and organize their job applications directly from platforms like **LinkedIn** and **Naukri**. And show analytics of applied jobs using charts and a kanban board to keep track of the applies.
 
 ---
 
 ## 🚀 Live Demo
+> Test Credentials: email: admin@gmail.com password: admin123
 
 **Web App:** [https://job-tracker-beryl.vercel.app](https://job-tracker-beryl.vercel.app)
+
 
 **Chrome Extension:** [AutoTrack - Auto Job Saver (Chrome Web Store)](https://chromewebstore.google.com/detail/autotrack-auto-job-saver/hhnjkbniocfklogmkfhlhibofnbfgaao)
 
@@ -39,6 +41,7 @@ All saved jobs appear neatly organized in your personal dashboard.
 
 * **Frontend:** React (Vite) + Tailwind CSS
 * **Backend:** Node.js + Express.js + MongoDB
+* **ML Service:** Python + FlaskAPI
 * **Extension:** Manifest v3 (background, content, popup scripts)
 * **Hosting:** Vercel (Frontend), Render (Backend API)
 
@@ -64,7 +67,7 @@ You can view the complete privacy policy here:
 ## 🧑‍💻 Developer
 
 **Created by:** Nikhil Mali
-**Email:** [nikhilmali7@gmail.com](mailto:nikhilmali7@gmail.com)
+**Email:** [nikhilmali7@gmail.com](mailto:nikhilmmali7@gmail.com)
 
 ---
 
